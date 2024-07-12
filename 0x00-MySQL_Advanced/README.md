@@ -1,0 +1,1 @@
+Advanced MySQL help new administrators with manipulating data either through inserting records from other queries or CSV files. CSV files are flat, comma-delimited files that contain data that can be read across numerous different platforms.
